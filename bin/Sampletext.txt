@@ -1,0 +1,15 @@
+What was the first book written by Terry Pratchett?
+When was the U.S. capitol built?			date (time)
+ * How did Virginia Woolf die?				-- (SV:die)
+ * How big is Mars?					big
+ * What is the play "West Side Story" based on?		base (???)
+ * What color is the top stripe on the U.S. flag?	color
+ * What is the name of Ling Ling's mate?		name, mate (!)
+ * What did George Washington call his house?		-- (SV:call)
+ * Who created the literary character Phineas Fogg?	person (SV:create)
+ * In which city would you find the Louvre?		city
+ * How many electoral votes does Tennessee have?	many
+ * What dissolves gold?					-- (SV:dissolve-nt)
+ * Where is Mount Olympus?				place
+ * The sun is mostly made up of what two gasses?	gas
+ *
